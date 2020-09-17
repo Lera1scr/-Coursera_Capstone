@@ -1,0 +1,12 @@
+Predicting the relationships between a car accident and weather conditions 
+Skripnik Valeriya
+
+September 17, 2020
+
+1. Introduction 
+1.1 Background 
+Over the past few decades developing countries witnessed an excessive growth in population associated with large percentage of car ownership due to economic prosperity and reduction in car prices over time. This increased dramatically the traffic volumes on the street networks and caused - since the rate of increase in car ownership is way faster that the rate of developing new transportation infrastructure - serious traffic problems such as road accidents, traffic jams and excessive time delays. Investigating traffic accidents - as a multi-dimensional problem of engineering, social and legislative nature -is a research priority for most countries in order to reduce both accidents severity and frequency by investigating the three accidents stages: pre-accident, time of accident and post -accident stage. Many developing countries are in the process of developing complete digital databases for traffic accidents with all related attributes to be used in comprehensive analysis aiming to identify mainly the reasons behind traffic accidents and the best countermeasures to reduce the extent of this phenomenon [1]  .
+1.2 Problem 
+Data that might contribute to determining player improvement might include his performance last season, his age, his draft status, his position, and metrics that describe what kind of player he is. This project aims to predict whether and how much a player will improve the next season based on these data.
+1.3 Interest 
+It is obvious that information services will be in an accurate forecast of this dependence. Other investigators, car drivers, may also be helpful and interested.
