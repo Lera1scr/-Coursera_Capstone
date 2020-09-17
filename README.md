@@ -9,3 +9,6 @@ Import the pandas library as pd.
 Import the Numpy library as np.
 Print the following the statement: Hello Capstone Project Course!
 Push the Notebook to your Github repository and submit a link to the notebook on your Github repository.
+
+Report - https://drive.google.com/file/d/1GjweFNMNgNRU0fReRC1CtAnm9Cr-mvlL/view?usp=sharing 
+Presentations - https://drive.google.com/file/d/1BFIpfteFiGGXOHektx9AiY_vcO-AsvB1/view?usp=sharing
